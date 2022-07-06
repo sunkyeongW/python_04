@@ -67,7 +67,7 @@ friend = [17, 34, 30, 26]
 print('원소 갯수 :', len(friend))
 print("가장 작은 값 :", min(friend))
 print("가장 큰 값 :", max(friend))
-print("합계 :", sum(friend))
+print("합계는? :", sum(friend))
 print()
 
 print('---통계 모듈---')
